@@ -1,0 +1,19 @@
+{
+    "complete": {
+        "nome": "testete  ste",
+        "email": "genilson@gmail.com",
+        "password": "senhaTeste"
+    },
+    "notName": {
+        "email": "testeteste@gmail.com",
+        "password": "senhaTeste"
+    },
+    "notEmail": {
+        "nome": "teste teste",
+        "password": "senhaTeste"
+    },
+    "notPassword": {
+        "nome": "teste teste",
+        "email": "nullteste@gmail.com"
+    }
+}

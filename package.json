@@ -1,0 +1,17 @@
+{
+  "name": "teste-genilson",
+  "version": "1.0.0",
+  "description": "Test Genilson - SQUADRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open",
+    "build": "npm test",
+    "start": "npx cypress open"
+  },
+  "author": "Genilson",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.4.1",
+    "@faker-js/faker": "^9.8.0"
+  }
+}
