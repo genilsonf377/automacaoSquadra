@@ -8,7 +8,7 @@ describe('Login Feature', () => {
             email: Cypress.env('LOGIN'),
             senha: Cypress.env('PASSWORD')
         })
-        // cy.pause()
+        
         cy.contains('p', 'Este é seu sistema para administrar seu ecommerce.').should('be.visible')
     })
 
