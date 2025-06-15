@@ -11,6 +11,7 @@ O projeto implementa testes automatizados para a aplicação ServeRest, cobrindo
 - [Cypress](https://www.cypress.io/) - Framework de automação de testes
 - [@faker-js/faker](https://fakerjs.dev/) - Geração de dados dinâmicos para testes
 - JavaScript - Linguagem de programação
+- GitHub Actions- Para execução de Pipeline
 
 ## ⚙️ Pré-requisitos
 
@@ -103,7 +104,7 @@ cypress/
 
 ## 👨‍💻 Autor
 
-**Francisco Genilson**
+**Francisco Genilson Ferreira Gomes**
 
 ## 📝 Licença
 
