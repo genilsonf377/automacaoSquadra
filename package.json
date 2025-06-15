@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open",
-    "build": "npm test",
-    "start": "npx cypress open"
+    "build": "npm install"
   },
   "author": "Genilson",
   "license": "ISC",
